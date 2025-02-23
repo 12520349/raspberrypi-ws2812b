@@ -15,3 +15,8 @@ hdmi_cvt 320 480 60 6 0 0 0
 hdmi_drive=2
 hdmi_force_edid_audio = 1
 ```
+
+#Link
+```
+https://forums.raspberrypi.com/viewtopic.php?t=191210
+```
